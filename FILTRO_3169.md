@@ -12,3 +12,7 @@
 * Insights co-criados E1 + E2.
 
 **Métrica do Ápice:** Ação Consequente Imediata.
+
+---
+[🇺🇸 English](https://translate.google.com/translate?sl=pt&tl=en&u=https://github.com/JeanLaris) | [🇯🇵 日本語](https://translate.google.com/translate?sl=pt&tl=ja&u=https://github.com/JeanLaris) | [🇪🇸 Español](https://translate.google.com/translate?sl=pt&tl=es&u=https://github.com/JeanLaris)
+---
